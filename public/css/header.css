@@ -1,0 +1,45 @@
+header .navbar-brand {
+  margin-left: 0 !important;
+}
+
+header .navbar {
+  border-radius: 0;
+  margin-bottom: 0;
+}
+
+header .navbar-brand img {
+  text-align: right !important;
+  margin-top: -5px;
+}
+
+header .index-page a {
+  margin: 0 -20px;
+  color: #fff !important;
+  font-size: 20px;
+}
+
+.navbar-inverse {
+  background-color: #5B97D8;
+  border-color: #5B97D8;
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+  background-color: #5B97D8;
+}
+
+.reg-login-link li {
+  height: 35px;
+  margin-top: 7px;
+  line-height: 35px;
+  background-color: #8BC93A;
+  border-radius: 8px;
+}
+
+.reg-login-link li:first-child {
+  margin-right: 10px;
+}
+
+.reg-login-link a {
+  margin-top: -8px;
+  color: #fff !important;
+}

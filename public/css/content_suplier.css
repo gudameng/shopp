@@ -1,0 +1,17 @@
+.content .right{background-color: white;}
+
+/*头部样式*/
+.con-right-header{height: 30px;min-height: 29px;margin-bottom: 0;font-size: 12px;line-height: 30px;}
+.navbar-img-home{height: 20px;padding: 0;padding-left: 30px;padding-top: 5px;}
+.navbar-txt-o{padding-left: 45px;height: 12px;color: #4a4a93;}
+.navbar-txt-o span{color: #2179a9;}
+
+/*中间样式*/
+.navbar-co-bgcolor{width: 1092px;height: 50px;background-color: #f6fafd;margin-top: 0;padding-top: 11px;}
+.form-co-bor{border: 1px solid #8ab2d5;}
+.btn-wid-sizeo{margin-left: 24px;width: 100px;color: white;background: url(../img/ico/search.png) no-repeat #87c212;background-position: 10px 8px;}
+.btn-wid-sizet{width: 130px;background: url(../img/ico/tianjia.png) no-repeat #47acf1;background-position: 11px 6px;padding-left: 35px;position: absolute;right: 473px;top: 123px;}
+
+/*底部样式*/
+.position-txt-one th{text-align: center;}
+.position-txt-two{text-align: center;}

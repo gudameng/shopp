@@ -1,0 +1,10 @@
+.headerdown {
+  height: 30px;
+  background-color: #f8f8f8;
+  line-height: 30px;
+  color: #333333;
+  font-size: 12px;
+  box-sizing: border-box;
+  padding: 0 35px;
+  border-bottom: 1px solid #e7e7e7;
+}
